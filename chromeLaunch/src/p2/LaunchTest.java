@@ -11,7 +11,7 @@ public class LaunchTest
 		WebDriver driver = new ChromeDriver();
 		driver.get(url);
 		Thread.sleep(2000);
-		driver.close();
+		
 		
 	}
 
